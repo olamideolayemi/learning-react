@@ -1,0 +1,15 @@
+.nav-container {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.logo-text {
+    content: "";
+}
+
+.logo-text h1 {
+    font-size: 20px;
+}
